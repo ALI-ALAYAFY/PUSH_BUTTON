@@ -1,6 +1,8 @@
 # PUSH_BUTTON
 Pushbuttons or switches connect two points in a circuit when you press them. I make a circuit using tinkercad, pushbutton circuit using both of Arduino uno and pushbutton and resistors.
 //
+The button can be used as a way for a user to control the robot: The robot can check if the button is pressed in order to "start" or "pause" its task. The robot can pause until the button is pressed before performing the next step in a task.
+
 --CODE--
 
 
